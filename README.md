@@ -1,4 +1,5 @@
-chenweihan.github.com
-=====================
+USE **[Jekyll-Bootstrap](http://jekyllbootstrap.com/)** and **[Twitter-Bootstrap](http://twitter.github.com/bootstrap/)**.
 
-github个人博客
+### Licenses:
+
+[MIT](http://opensource.org/licenses/MIT)
