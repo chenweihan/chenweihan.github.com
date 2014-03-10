@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://chenweihan.github.io
+name: chenweihan
+author: chenweihan
+qq: 277546785
+email: chenweihan163@gmail.com | csq-3@163.com
+duoshuo: chenweihan
+beian: 
+cnzz: 4884698
+weibo: 1657941841
+github: chenweihan
+pygments: true
+safe: true
+paginate: 20
+about: "这里是 chenweihan 的个人博客，欢迎观赏、建议、拍砖……"
